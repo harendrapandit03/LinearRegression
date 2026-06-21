@@ -1,1 +1,4 @@
--e ".ipynb_checkpoints/\n__pycache__/\n*.pyc" 
+.ipynb_checkpoints/
+.idea/
+__pycache__/
+*.pyc
